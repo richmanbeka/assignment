@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Inserting an Image</title>
+</head>
+<body>
+    <h1>Inserting an Image</h1>
+    <img src="flower.jfif" alt="descriptive text" width="200" height="200">
+
+    <h2>Using an image as a link</h2>
+    <p>When you click the image below, it will take you to another page:</p>
+    
+    <!-- Facebook logo as a link -->
+    <a href="https://www.facebook.com" target="_blank">
+        <img src="facebook logo png.jfif" alt="Facebook Logo" width="100" height="100">
+    </a>
+    <h3>click the links below to open the specified pages</h3>
+    <ui>
+             <li><a href="https://myfirstwebpage.com"target="_blank">first webpage</a></li>
+             <li><a href="https://www.youtube.com"target="_blank">youtube</a</li>
+             <li><a href="https//www.facebook.com"target="_blank">facebook</a></li>   
+
+    </ui>
+    
+</body>
+</html>
